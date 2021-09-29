@@ -6,7 +6,7 @@ public class largest_prime_factor {
                y = y/i;
             }
          }
-         if(y >2) {
+         if(y>2) {
             System.out.println(y);
          }       
     }
